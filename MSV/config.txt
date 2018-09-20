@@ -1,0 +1,44 @@
+#-------[1]:	which stat  you want to finish?	
+#-------0,1,2 or all(0->phenotype stat,1->data extract,2->data visual,all->all stat including ,0,1,2)
+
+stat = all
+
+#-------[2]:	if you choose 0,plaese give the below profiles 
+
+phenotype =  /mnt/osf1/user/liaoherui/MSV/profile/Phenotype_profile/All.xls
+
+#the phenotype name and specific info you need
+ptype = Disease  #Please be same with the phenotype file
+
+info= Ankylosing spondylitis
+
+#-------[3]:	if you choose 1,please give the below profiles
+  	
+level = ga	
+####this parameter  includes: gn(gene_num),gm(gene name from IGC),ga(gene_anno),ta(Taxo),ko(KO)####
+
+your_gene_list = /mnt/osf1/user/liaoherui/MSV/list/Drug_IGC.xls
+
+#####the form of this list should be decided by your level,the eg is given in the introductions####
+
+#-----[4]:	if you choose 2,please give the below profiles--------
+
+
+####this is the phenotype file of these individuals(usually,they are from one area or one project.)####
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+level2 = ge  #you can write:ge(gene),ta(taxo),ko(KO)
+
+phenotype_dir =	../../Result/0.stat_phenotype/File_by_Disease		#the default is output of stat_0
+
+out_y_dir =	../../Result/1.start_stat/Gene/Out_y	#this is just for gene and ko,the default is output of stat_1
+
+out_y_g =	../../Result_Taxo/1.start_stat/Taxo/genus/Out_y		#genus
+
+out_y_p =	../../Result_Taxo/1.start_stat/Taxo/phylum/Out_y	#phylum
+
+out_y_s =	../../Result_Taxo/1.start_stat/Taxo/species/Out_y	#species
+
+
+#-----[5]:	if you choose all,please give all of the above files------
+

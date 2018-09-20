@@ -1,0 +1,27 @@
+Num	Vitmin_enemzy	IGC_GeneName	Raw_GeneName	identity	Related_micro
+1	4-amino-4-deoxychorismate lyase	MH0131_GL0111296	bad:BAD_0076	99.369	Bifidobacterium adolescentis ATCC 15703
+2	4-amino-4-deoxychorismate lyase	V1.UC15-0_GL0007146	bad:BAD_0076	98.319	Bifidobacterium adolescentis ATCC 15703
+3	4-amino-4-deoxychorismate lyase	250twins_36118_GL0201698	bad:BAD_0076	98.876	Bifidobacterium adolescentis ATCC 15703
+4	4-amino-4-deoxychorismate lyase	V1.CD7-0-PN_GL0022766	bde:BDP_0103	99.369	Bifidobacterium dentium Bd1
+5	dihydropteroate synthase	390333.Ldb0249	ldb:Ldb0249	99.727	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842
+6	dihydropteroate synthase	390333.Ldb0249	lbu:LBUL_0211	100	Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365
+7	dihydropteroate synthase	390333.Ldb0249	lde:LDBND_0877	99.174	Lactobacillus delbrueckii subsp. bulgaricus ND02
+8	dihydropteroate synthase	390333.Ldb0249	ldl:LBU_0195	99.725	Lactobacillus delbrueckii subsp. bulgaricus 2038
+9	dihydropteroate synthase	V1.CD7-0-PN_GL0015233	lre:Lreu_1275	97.416	Lactobacillus reuteri DSM 20016
+10	dihydropteroate synthase	V1.CD7-0-PN_GL0002967	lre:Lreu_1275	95.026	Lactobacillus reuteri DSM 20016
+11	dihydropteroate synthase	V1.CD7-0-PN_GL0015233	lrf:LAR_1208	98.519	Lactobacillus reuteri JCM 1112
+12	dihydropteroate synthase	V1.CD7-0-PN_GL0002967	lrf:LAR_1208	95.849	Lactobacillus reuteri JCM 1112
+13	dihydropteroate synthase	V1.CD7-0-PN_GL0015233	lru:HMPREF0538_20288	97.674	Lactobacillus reuteri SD2112
+14	dihydropteroate synthase	V1.CD7-0-PN_GL0002967	lru:HMPREF0538_20288	95.844	Lactobacillus reuteri SD2112
+15	dihydropteroate synthase	V1.CD7-0-PN_GL0015233	lrt:LRI_0691	97.416	Lactobacillus reuteri I5007
+16	dihydropteroate synthase	V1.CD7-0-PN_GL0002967	lrt:LRI_0691	94.764	Lactobacillus reuteri I5007
+17	dihydropteroate synthase	V1.CD7-0-PN_GL0015233	lrr:N134_07120	97.674	Lactobacillus reuteri TD1
+18	dihydropteroate synthase	V1.CD7-0-PN_GL0002967	lrr:N134_07120	94.503	Lactobacillus reuteri TD1
+19	dihydropteroate synthase	390333.Ldb0249	lhe:lhv_1204	99.174	Lactobacillus helveticus DPC 4571
+20	dihydropteroate synthase	390333.Ldb0249	lhv:lhe_1097	99.449	Lactobacillus helveticus CNRZ32
+21	dihydropteroate synthase	390333.Ldb0249	lhh:LBH_0974	99.454	Lactobacillus helveticus H9
+22	dihydropteroate synthase	390333.Ldb0249	lhd:HUO_06145	100	Lactobacillus helveticus KLDS1.8701
+23	dihydropteroate synthase	712938.LC40_0852	lfe:LAF_1336	99.167	Lactobacillus fermentum IFO 3956
+24	dihydropteroate synthase	712938.LC40_0852	lfr:LC40_0852	99.735	Lactobacillus fermentum CECT 5716
+25	dihydropteroate synthase	712938.LC40_0852	lff:LBFF_1450	99.204	Lactobacillus fermentum F-6
+26	precorrin-6A/cobalt-precorrin-6A reductase	V1.CD11-0_GL0003251	lre:Lreu_1725	98.718	Lactobacillus reuteri DSM 20016

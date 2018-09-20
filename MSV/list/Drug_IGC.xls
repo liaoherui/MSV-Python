@@ -1,0 +1,72 @@
+Num	Drug_name	IGC_GeneName	Raw_GeneName	identity	Related_Micro(found by paper)
+1	Digoxin	479437.Elen_2528	cgr1	100.00	Eggerthella lenta
+2	Digoxin	V1.FI08_GL0054818	cgr1	93.37	Eggerthella lenta
+3	Digoxin	250twins_36389_GL0031023	cgr1	86.97	Eggerthella lenta
+4	Digoxin	V1.CD3-0-PN_GL0127537	cgr1	86.96	Eggerthella lenta
+5	Digoxin	250twins_36052_GL0103722	cgr1	81.82	Eggerthella lenta
+6	Digoxin	479437.Elen_2529	cgr2	100.00	Eggerthella lenta
+7	Acetaminophen	ED19A_GL0032769	HpdA	99.84	Clostridium difficile
+8	Acetaminophen	MH0277_GL0041682	HpdA	86.25	Clostridium difficile
+9	Acetaminophen	O2.UC13-1_GL0161190	HpdA	97.22	Clostridium difficile
+10	Acetaminophen	765074482-stool1_revised_C1326772_1_gene191546	HpdA	87.10	Clostridium difficile
+11	Acetaminophen	675950834-stool1_revised_scaffold25796_3_gene6979	HpdB	83.50	Clostridium difficile
+12	Acetaminophen	ED19A_GL0032770	HpdC	100.00	Clostridium difficile
+13	Gemcitabine	MH0014_GL0118140	cytidine deaminase gene(E.MDS42)	98.31	Escherichia coli
+14	Gemcitabine	250twins_37222_GL0075818	cytidine deaminase gene(E.MDS42)	91.75	Escherichia coli
+15	Gemcitabine	585054.EFER_2228	cytidine deaminase gene(E.MDS42)	88.49	Escherichia coli
+16	Gemcitabine	250twins_37190R1_GL0076542	cytidine deaminase gene(E.MDS42)	83.26	Escherichia coli
+17	Gemcitabine	250twins_35389R1_GL0010303	cytidine deaminase gene(E.MDS42)	83.31	Escherichia coli
+18	Gemcitabine	469595.CSAG_02007	cytidine deaminase gene(E.MDS42)	82.79	Escherichia coli
+19	Gemcitabine	290338.CKO_00646	cytidine deaminase gene(E.MDS42)	81.32	Escherichia coli
+20	Gemcitabine	1045856.EcWSU1_03059	cytidine deaminase gene(E.MDS42)	79.61	Escherichia coli
+21	Gemcitabine	V1.UC21-4_GL0055745	cytidine deaminase gene(E.MDS42)	82.28	Escherichia coli
+22	Gemcitabine	V1.UC21-4_GL0055745	cytidine deaminase gene(E.MDS42)	84.31	Escherichia coli
+23	Gemcitabine	MH0260_GL0018021	cytidine deaminase gene(E.MDS42)	79.22	Escherichia coli
+24	Gemcitabine	888063.HMPREF9086_3104	cytidine deaminase gene(E.MDS42)	78.95	Escherichia coli
+25	Gemcitabine	MH0301_GL0020342	cytidine deaminase gene(E.MDS42)	99.04	Escherichia coli
+26	Gemcitabine	MH0277_GL0013687	cytidine deaminase gene(E.MDS42)	78.39	Escherichia coli
+27	Gemcitabine	T2D-108A_GL0143703	cytidine deaminase gene(E.MDS42)	81.07	Escherichia coli
+28	Gemcitabine	T2D-108A_GL0143703	cytidine deaminase gene(E.MDS42)	83.52	Escherichia coli
+29	Gemcitabine	SZEY-40A_GL0000265	cytidine deaminase gene(E.MDS42)	81.19	Escherichia coli
+30	Gemcitabine	NLM027_GL0070498	cytidine deaminase gene(E.MDS42)	81.47	Escherichia coli
+31	Gemcitabine	ED13A_GL0021728	cytidine deaminase gene(E.MDS42)	78.53	Escherichia coli
+32	Gemcitabine	MH0008_GL0009270	cytidine deaminase gene(E.MDS42)	84.04	Escherichia coli
+33	Gemcitabine	250twins_35564_GL0058165	cytidine deaminase gene(E.MDS42)	82.99	Escherichia coli
+34	Gemcitabine	MH0179_GL0058581	cytidine deaminase gene(E.MDS42)	83.97	Escherichia coli
+35	Gemcitabine	469613.HMPREF0864_00519	cytidine deaminase gene(E.MDS42)	81.76	Escherichia coli
+36	Gemcitabine	V1.CD3-0-PT_GL0072301	cytidine deaminase gene(E.MDS42)	100.00	Escherichia coli
+37	Gemcitabine	250twins_35523_GL0017730	cytidine deaminase gene(E.MDS42)	97.37	Escherichia coli
+38	Gemcitabine	V1.CD3-0-PT_GL0027137	cytidine deaminase gene(E.MDS42)	87.69	Escherichia coli
+39	Gemcitabine	888057.HMPREF9064_0586	cytidine deaminase gene(E.MDS42)	92.86	Escherichia coli
+40	Gemcitabine	MH0014_GL0118140	cytidine deaminase gene(E.MG1655)	98.31	Escherichia coli
+41	Gemcitabine	250twins_37222_GL0075818	cytidine deaminase gene(E.MG1655)	91.75	Escherichia coli
+42	Gemcitabine	585054.EFER_2228	cytidine deaminase gene(E.MG1655)	88.49	Escherichia coli
+43	Gemcitabine	250twins_37190R1_GL0076542	cytidine deaminase gene(E.MG1655)	83.26	Escherichia coli
+44	Gemcitabine	250twins_35389R1_GL0010303	cytidine deaminase gene(E.MG1655)	83.31	Escherichia coli
+45	Gemcitabine	MH0008_GL0009270	cytidine deaminase gene(K.MGH)	98.76	Klebsiella pneumoniae
+46	Gemcitabine	ED13A_GL0021728	cytidine deaminase gene(K.MGH)	93.32	Klebsiella pneumoniae
+47	Gemcitabine	NLM027_GL0070498	cytidine deaminase gene(K.MGH)	88.00	Klebsiella pneumoniae
+48	Gemcitabine	MH0277_GL0013687	cytidine deaminase gene(K.MGH)	85.08	Klebsiella pneumoniae
+49	Gemcitabine	MH0260_GL0018021	cytidine deaminase gene(K.MGH)	84.13	Klebsiella pneumoniae
+50	Gemcitabine	SZEY-40A_GL0000265	cytidine deaminase gene(K.MGH)	81.01	Klebsiella pneumoniae
+51	Gemcitabine	290338.CKO_00646	cytidine deaminase gene(K.MGH)	80.26	Klebsiella pneumoniae
+52	Gemcitabine	T2D-108A_GL0143703	cytidine deaminase gene(K.MGH)	83.42	Klebsiella pneumoniae
+53	Gemcitabine	T2D-108A_GL0143703	cytidine deaminase gene(K.MGH)	84.95	Klebsiella pneumoniae
+54	Gemcitabine	888063.HMPREF9086_3104	cytidine deaminase gene(K.MGH)	82.71	Klebsiella pneumoniae
+55	Gemcitabine	888063.HMPREF9086_3104	cytidine deaminase gene(K.MGH)	82.45	Klebsiella pneumoniae
+56	Gemcitabine	V1.UC21-4_GL0055745	cytidine deaminase gene(K.MGH)	82.80	Klebsiella pneumoniae
+57	Gemcitabine	V1.UC21-4_GL0055745	cytidine deaminase gene(K.MGH)	82.45	Klebsiella pneumoniae
+58	Gemcitabine	1045856.EcWSU1_03059	cytidine deaminase gene(K.MGH)	82.44	Klebsiella pneumoniae
+59	Gemcitabine	1045856.EcWSU1_03059	cytidine deaminase gene(K.MGH)	84.13	Klebsiella pneumoniae
+60	Gemcitabine	250twins_37190R1_GL0076542	cytidine deaminase gene(K.MGH)	78.78	Klebsiella pneumoniae
+61	Gemcitabine	250twins_37222_GL0075818	cytidine deaminase gene(K.MGH)	83.73	Klebsiella pneumoniae
+62	Gemcitabine	250twins_35389R1_GL0010303	cytidine deaminase gene(K.MGH)	78.23	Klebsiella pneumoniae
+63	Gemcitabine	MH0014_GL0118140	cytidine deaminase gene(K.MGH)	81.36	Klebsiella pneumoniae
+64	Gemcitabine	MH0014_GL0118140	cytidine deaminase gene(K.MGH)	81.31	Klebsiella pneumoniae
+65	Gemcitabine	469595.CSAG_02007	cytidine deaminase gene(K.MGH)	78.17	Klebsiella pneumoniae
+66	Gemcitabine	MH0179_GL0058581	cytidine deaminase gene(K.MGH)	88.76	Klebsiella pneumoniae
+67	Gemcitabine	585054.EFER_2228	cytidine deaminase gene(K.MGH)	81.08	Klebsiella pneumoniae
+68	Gemcitabine	V1.CD3-0-PT_GL0072301	cytidine deaminase gene(K.MGH)	92.00	Klebsiella pneumoniae
+69	Gemcitabine	MH0369_GL0115026	cytidine deaminase gene(M.hyorhinis)	91.84	M. hyorhinis
+70	Irinotecan	155864.Z2621m	3L3 beta-glucuronidase (gus) gene	98.84	Escherichia coli
+71	Irinotecan	250twins_37222_GL0014914	3L3 beta-glucuronidase (gus) gene	93.29	Escherichia coli
